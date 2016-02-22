@@ -1,7 +1,6 @@
 # exercice
 github exercise
 
-| First Header  | Second Header |
+| Seba  | Tomek |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| szef wszystkich szefow  | szef calej reszty  |
